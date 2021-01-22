@@ -25,7 +25,6 @@ Also cleans up waiting for maintainer packages that are not not going to be move
     <tags>chocolatey-package-cleanup admin</tags>
     <dependencies>
       <dependency id="chocolatey.extension" version="2.0.3" />
-      <dependency id="chocolatey-package-cleanup-config" version="1.0.0" />
     </dependencies>
   </metadata>
   <files>
